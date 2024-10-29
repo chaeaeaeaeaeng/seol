@@ -44,7 +44,7 @@ export default function home() {
                 <div className="option">
                     <Link href="/find">아이디 찾기</Link>
                     <span>|</span>
-                    <Link href="find">비밀번호 찾기</Link>
+                    <Link href="/find">비밀번호 찾기</Link>
                     <span>|</span>
                     <Link href="/join">회원가입</Link>
                 </div>
